@@ -1,0 +1,5 @@
+[[TaxSurcharges]]
+[[HourlySurcharges]]
+[[TimeLeftSurchages]]
+[[CalendarDatesSurcharges]]
+[[PaymentMethodsSurcharges]]
