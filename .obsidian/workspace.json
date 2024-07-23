@@ -97,7 +97,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requests.md",
+                "file": "PricePlans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e3de92dabd9656f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PricePlanDetails.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e64d6ab55503dc55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GET /pricing/getPricePlans.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -250,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Requests.md",
+                "file": "GET /pricing/getPricePlans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requests.md",
+                "file": "GET /pricing/getPricePlans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +314,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Requests.md"
+                "file": "GET /pricing/getPricePlans.md"
               }
             }
           }
@@ -313,20 +337,21 @@
       "obsidian-import-json:JSON/CSV Importer": false
     }
   },
-  "active": "88b0c062542e5465",
+  "active": "e64d6ab55503dc55",
   "lastOpenFiles": [
     "PricePlans.md",
-    "Requests.md",
-    "GET /pricing/getPricePlans.md",
     "PricePlanDetails.md",
+    "Surcharges.md",
+    "GET /pricing/getPricePlans.md",
+    "BasePrices.md",
     "GET /pricing/getPricePlanDetails.md",
-    "POST /pricing/deletePricePlan.md",
     "Excalidraw/pricingv2.excalidraw.md",
+    "Requests.md",
+    "POST /pricing/deletePricePlan.md",
     "GET /pricing/getFixedPrices.md",
     "FixedPrices.md",
     "GET /pricing/getCalendarDatesSurcharges.md",
     "CalendarDatesSurcharges.md",
-    "Surcharges.md",
     "GET /pricing/getTimeLeftSurcharges.md",
     "TimeLeftSurchages.md",
     "GET /pricing/getHourlySurcharges.md",
@@ -334,7 +359,6 @@
     "TaxSurcharges.md",
     "GET /pricing/getTaxSurcharges.md",
     "GET /pricing/getPricesForCarType.md",
-    "BasePrices.md",
     "POST /pricing/savePricePlan.md",
     "POST /pricing/saveCalendarDatesSurcharges.md",
     "POST /pricing/saveFixedPrices.md",
